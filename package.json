@@ -1,7 +1,9 @@
 {
   "name": "my-ultimate-template",
-  "description": "React Native Template Typescript With I18N",
+  "description": "template for RN using TS",
   "repository": "https://github.com/RuliSlim/my-ultimate-RN-template.git",
   "author": "Ruli <ruli0to8@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "index.js"
 }
