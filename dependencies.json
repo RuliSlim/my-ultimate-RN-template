@@ -1,0 +1,5 @@
+{
+	"react-native-i18n": "^2.0.15",
+	"@types/react-native-i18n": "^2.0.0",
+	"@types/react-navigation": "^3.4.0"
+}
